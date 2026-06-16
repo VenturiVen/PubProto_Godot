@@ -28,6 +28,10 @@ folder_colors={
 "res://audio/": "green"
 }
 
+[global_group]
+
+pickable=""
+
 [input]
 
 mouseLeft={
